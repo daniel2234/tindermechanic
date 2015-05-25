@@ -13,6 +13,7 @@
 		659C3B7B1B136A5E00066026 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 659C3B7A1B136A5E00066026 /* Images.xcassets */; };
 		659C3B7E1B136A5E00066026 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 659C3B7C1B136A5E00066026 /* LaunchScreen.xib */; };
 		659C3B8A1B136A5F00066026 /* TinderMechanicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659C3B891B136A5F00066026 /* TinderMechanicTests.swift */; };
+		659C3B941B137E3400066026 /* Mario.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 659C3B931B137E3400066026 /* Mario.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		659C3B831B136A5F00066026 /* TinderMechanicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TinderMechanicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		659C3B881B136A5F00066026 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		659C3B891B136A5F00066026 /* TinderMechanicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderMechanicTests.swift; sourceTree = "<group>"; };
+		659C3B931B137E3400066026 /* Mario.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mario.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				659C3B751B136A5E00066026 /* ViewController.swift */,
 				659C3B771B136A5E00066026 /* Main.storyboard */,
 				659C3B7A1B136A5E00066026 /* Images.xcassets */,
+				659C3B931B137E3400066026 /* Mario.jpg */,
 				659C3B7C1B136A5E00066026 /* LaunchScreen.xib */,
 				659C3B711B136A5E00066026 /* Supporting Files */,
 			);
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				659C3B941B137E3400066026 /* Mario.jpg in Resources */,
 				659C3B791B136A5E00066026 /* Main.storyboard in Resources */,
 				659C3B7E1B136A5E00066026 /* LaunchScreen.xib in Resources */,
 				659C3B7B1B136A5E00066026 /* Images.xcassets in Resources */,
